@@ -137,6 +137,10 @@ p {
   margin: 25px;
 }
 
+.testimony-name {
+  font-size: 1.5rem;
+}
+
 #press {
   padding: 0 0 7%;
 }
@@ -154,6 +158,12 @@ p {
 .price-text {
   font-size: 3rem;
   line-height: 1.5;
+}
+
+.price-image {
+  width: 40%;
+  border-radius: 100%;
+  margin: 25px;
 }
 
 .pricing-column {
