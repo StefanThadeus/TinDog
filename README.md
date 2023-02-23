@@ -1,2 +1,2 @@
 # TinDog
-An web design project to practice advanced CSS skills.
+A web design project created to practice advanced CSS skills.
